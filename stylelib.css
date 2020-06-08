@@ -1,0 +1,131 @@
+
+
+
+#navbar     {  width: 1020px;
+    
+                             
+
+            }
+
+
+#navmain { height: 30px;
+           background-color: navy ;
+
+}
+
+#titlebar   {   width: 1020px;
+                height: 130px;
+                background-color: rgb(7, 7, 117);
+
+   
+
+            }
+
+#titlebar h2   {   color: mintcream;
+                    margin-left: 35px;
+                    padding-top: 20px;
+
+   
+
+            }
+
+
+
+
+#mainbody   { width: 1020px;
+                background-color: gainsboro;
+               
+
+            }
+
+#subbody    { width: 1000px;
+              margin-bottom: 30px;
+              position: relative;
+              top: -20px;
+              z-index: 2px;
+              margin-top: 50px;
+              
+
+  
+
+            }
+
+#more       { width: 1020px;
+               height: 50px;
+              
+
+            }    
+        
+#footer     { width: 1020px;
+
+            }        
+
+.bk         { width: 950px;
+              margin-left: 10px;
+              margin-right: 10px;
+              background-color: snow;
+              border-bottom: 2px solid gainsboro;
+              height: 50px;
+              
+
+            }
+
+.bd        { width: 950px;
+    margin-left: 10px;
+    margin-right: 10px;
+    background-color: snow;
+    border-bottom: 2px solid gainsboro;
+    height: 300px;
+    
+
+    }
+
+
+.nav-link { color: rgb(225, 225, 248);
+
+}       
+
+.morebutton { float: right;
+                margin-right: 10px;
+               margin-top: 5px;
+
+}
+#follow h4 {
+    margin-left: 25px;
+
+}
+.twt{ color: ghostwhite !important;
+background-color: lightskyblue !important;
+border-color: lightskyblue !important;}
+
+.fb{  color: ghostwhite !important;
+    background-color: rgb(34, 115, 165) !important;
+    border-color: rgb(34, 115, 165) !important;}
+    
+
+.gg{  color: ghostwhite !important;
+    background-color: rgb(243, 49, 91) !important;
+    border-color: rgb(243, 49, 91) !important;}
+    
+
+#social { margin-left: 25px;
+    margin-bottom: 35px;
+
+}
+.chk { margin-left: 20px;
+margin-top: 20px;}
+
+#nav1 { margin-left: 10px;}
+
+
+#registerlink { margin-bottom: 10px;}
+#chk { padding-top: 8px;
+        padding-left: 50px;
+
+}
+
+
+
+
+
+
