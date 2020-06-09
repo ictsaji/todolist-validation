@@ -86,7 +86,59 @@
 
 
 
-<script src="todologjs.js"></script>  
+    <script >
+        
+        
+        $(function()
+    {
+
+
+        $("#submission").click(function()
+        
+                        {   
+
+
+                            function validate(userid,password,func) 
+                            {
+                                let id = userid;
+                                let pwd = password;
+                                console.log(id, pwd);
+                                
+                                if (userid === "admin" && password === "12345") 
+                                {
+                                    func();
+                                }
+                                else {alert("invalid username or password");
+                                            return false;
+                            
+                            
+                                    }
+                               
+                            }
+
+                                      function redirect()
+                                    {
+                                        window.location.href = 'todomain.htm';
+                                       
+                                    }
+
+
+
+                             validate($("#username").val(),$("#password").val(),redirect);         
+
+                        }  ); 
+
+
+
+    });
+
+    
+    
+    
+    
+    
+    
+    </script>  
          
 </body>
 
